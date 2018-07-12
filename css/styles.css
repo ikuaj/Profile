@@ -1,0 +1,151 @@
+.bckgrnd {
+  background-color: whitesmoke;
+}
+
+h1{
+  font-size: 10px;
+  text-align: left;
+  font-style: normal;
+  font-family: fantasy;
+
+}
+.important{
+  width: 200px;
+  height: 280px;
+  object-fit: cover;
+  filter: grayscale() contrast(120%);
+  box-shadow: 20px 30px 50px 0 rgba(0,0,0,.3);
+  display: block;
+  transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  margin-top: -10px;
+}
+ .important:hover{
+  box-shadow: 1px 1px 20px 0 rgba(0,0,0,.1);
+  margin-top: 20px;
+}
+
+.important{
+float:left;
+width: 200px;
+height:280px;
+padding-right: 0.25em;
+padding-left: 0.25em;
+margin-right: 5em;
+margin-top: 1em;
+
+}
+h2{
+  font-family: monospace;
+  font-size: 50px;
+  font-weight: 400;
+  margin-top: 4.5em;
+  margin-bottom: 0.5em;
+
+}
+.emoji{
+  border-radius: 50%;
+  width:50px;
+  height:50px;
+
+}
+.emoji:hover{
+    box-shadow: 2px 2px 10px 0 rgba(0,0,0,.2);;
+}
+.sidebar{
+  font-size: 75px;
+  font-family: sans-serif;
+  color:white;
+  width:99%;
+  float:left;
+  background-color:#273746 ;
+  padding: left;
+  padding: 0.05em;
+  margin:0.09em;
+
+}
+.sidebar2{
+  font-size: 30px;
+  font-family: Times ;
+  width:99%;
+  float:left;
+  background-color: grey;
+  padding:left;
+  padding: 0.05em;
+  margin:0.05em;
+
+}
+#font {
+  font-size: 25px;
+  column-rule-style: ridge;
+  column-count: 2;
+  column-gap: 30px;
+  column-width: 30px;
+  column-fill: balance;
+
+}
+.unimportant{
+  font-size: 23px;
+  column-count: 1;
+  margin-top: -1.5em;
+
+}
+.right{
+  font-size: 20px;
+  float:right;
+  width: 20%;
+  border-style: outset;
+  background-color:#273746 ;
+  text-align: right;
+  font-style: normal;
+  padding:0.1em;
+  padding-right: 3em;
+  margin: 2em;
+  margin-top: 0em;
+
+}
+.Box{
+  align-items: baseline;
+  border-style: solid;
+  border-color: grey;
+  border-width: medium;
+  background-color: #273746;
+  width: 150px;
+  height: 480px;
+  margin-top: 6em;
+  margin-left: 2em;
+  margin-bottom: 0em;
+  padding: 2em;
+  padding-top: 0em;
+  cursor: pointer;
+
+}
+h3{
+  font-size: 20px;
+}
+.gif1{
+  float: left;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding-left: 1.5em;
+  margin-top: 2em;
+
+}
+.gif2{
+  float: left;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding-left: 1.5em;
+  margin-top: 2em;
+
+}
+.gif3{
+  float: left;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding-left: 1.5em;
+  margin-top: 2em;
+
+}
