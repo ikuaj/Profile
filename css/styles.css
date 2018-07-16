@@ -43,6 +43,10 @@ margin-right: 10em;
   border-width: 10px;
   box-shadow: 0 0 6px 6px;
   padding-top: -9em;
+  padding-bottom: -2em;
+}
+a:link{
+  text-decoration: none;
 }
 h2{
   font-family: monospace;
@@ -109,49 +113,17 @@ h2{
   margin-top: 0em;
 
 }
-.Box{
-  align-items: baseline;
-  border-style: solid;
-  border-color: grey;
-  border-width: medium;
-  background-color: #273746;
-  width: 150px;
-  height: 480px;
-  margin-top: 6em;
-  margin-left: 2em;
-  margin-bottom: 0em;
-  padding: 2em;
-  padding-top: 0em;
-  cursor: pointer;
-
-}
 h3{
   font-size: 20px;
 }
-.gif1{
-  float: left;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  padding-left: 1.5em;
-  margin-top: 2em;
+#bottom{
+background-color:  #6e2c00;
 
 }
-.gif2{
-  float: left;
+.bottom{
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  padding-left: 1.5em;
-  margin-top: 2em;
-
-}
-.gif3{
-  float: left;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  padding-left: 1.5em;
-  margin-top: 2em;
-
+  padding: -0.5em;
+  margin-left: 20%;
 }
