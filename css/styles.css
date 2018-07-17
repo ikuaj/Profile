@@ -86,7 +86,7 @@ h2{
   color:white;
   width:99%;
   background-color:#273746 ;
-  padding: 0.05em;
+  padding-left: 0.5em;
   margin:0.09em;
   background: linear-gradient(to right, #273746 ,  #d5d8dc  );
 
@@ -97,8 +97,7 @@ h2{
   font-family: 'Rye', cursive;
   width:99%;
   background-color: #6e2c00;
-  padding:left;
-  padding: 0.05em;
+  padding-left:0.5em;
   margin:0.05em;
   margin-bottom: 3em;
   background: linear-gradient(to right, #6e2c00 ,  #d5d8dc  );
@@ -130,15 +129,15 @@ h3{
   padding: -0.5em;
   margin-right: 2em;
   -webkit-transition: -webkit-transform .8s ease-in-out;
-          transition:         transform .8s ease-in-out;
-   transition: all .8s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:         transform .8s ease-in-out;
+  transition: all .8s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .bottom:hover{
   width: 40px;
   height: 40px;
   opacity: 0.1;
   -webkit-transform: rotate(360deg);
-          transform: rotate(360deg);
+  transform: rotate(360deg);
 }
 .contact{
   color: white;
@@ -253,8 +252,10 @@ figure.image figcaption {
   letter-spacing: 1.5px;
 }
 figure.image figcaption p {
+  font-family: 'Rye', cursive;
+  font-family: 'Cute Font', cursive;
   margin: 0;
-  font-size: 20px;
+  font-size: 27px;
 }
 figure.image a {
   position: absolute;
