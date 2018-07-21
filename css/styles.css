@@ -5,7 +5,6 @@ body{
   font-family: Times;
 }
 .FONT{
-  font-family: 'UnifrakturMaguntia', cursive;
   font-family: 'Nosifer', cursive;
   font-size: 70px;
   margin-left: 40%;
@@ -52,12 +51,25 @@ hr{
 a:link{
   text-decoration: none;
 }
-#h2{
+#h3{
   font-family: 'Rye', cursive;
   font-size: 50px;
   font-weight: 400;
-  margin-bottom: 0.5em;
+  margin-left: 35%;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+
 }
+.edu {
+  margin-left: 10em;
+  font-size: 25px;
+  font-family: 'Hi Melody', cursive;
+}
+.eduh3{
+  font-size: 30px;
+  font-weight: bold;
+}
+
 h2{
   font-family: monospace;
   font-size: 50px;
@@ -66,6 +78,7 @@ h2{
   margin-bottom: 0.5em;
 
 }
+
 .emoji{
   border-radius: 50%;
   width:50px;
@@ -107,6 +120,10 @@ h2{
   font-size: 23px;
   margin-top: -1.5em;
 
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
 }
 
 h3{
@@ -152,6 +169,34 @@ h3{
   font-size:30px;
   font-family: 'Hi Melody', cursive;
 }
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+
+.html {
+  width: 90%;
+  background-color: #4CAF50;
+
+}
+.css {
+  width: 80%;
+   background-color: #2196F3;
+
+ }
+.js {
+  width: 65%;
+   background-color: #f44336;
+
+ }
+.php {
+  width: 60%;
+   background-color: #808080;
+   
+ }
 
 /*HOVER EFFECTS*/
 
