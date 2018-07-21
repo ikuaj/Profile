@@ -11,27 +11,27 @@
 
 ### Prerequisites
 
-  ..* An up-to-date browser, preferably chrome or mozilla
-  ..* Internet connection !
-  ..* Git
+  * An up-to-date browser, preferably chrome or mozilla
+  * Internet connection !
+  * Git
 
 ### Installation guide
 
   If you want to use this as your template, here's how to go about it:
 
   Install Git on you machine
-  ..* --Linux Users-- Run the terminal and navigate to the location you'd like the repository in
-  ..* --for Windows Users-- Navigate to the location you'd want the repository located, right click and select "git bash here"
-  ..* Clone the repository
-  ..* Upon completion, navigate to the cloned repository
+  * --Linux Users-- Run the terminal and navigate to the location you'd like the repository in
+  * --for Windows Users-- Navigate to the location you'd want the repository located, right click and select "git bash here"
+  * Clone the repository
+  * Upon completion, navigate to the cloned repository
   Feel free to edit the files to your prefered taste
 
 ### Technologies used
 
-      ..* html
-      ..* css
-      ..* jquery
-      ..* bootstrap
+      * html
+      * css
+      * jquery
+      * bootstrap
 
 ### LICENSE
 
