@@ -28,10 +28,10 @@
 
 ### Technologies used
 
-      * html
-      * css
-      * jquery
-      * bootstrap
+  * html
+  * css
+  * jquery
+  * bootstrap
 
 ### LICENSE
 
