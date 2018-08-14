@@ -5,7 +5,7 @@ body {
 }
 
 .bckgrnd {
-  background-color: whitesmoke;
+  background-color:  #ccd1d1;
 }
 
 /*...............NAVIGATION...............*/
@@ -82,7 +82,7 @@ body {
 .Aboutme {
   font-size: 30px;
   font-family: 'Hi Melody', cursive;
-  box-shadow: 10px 10px 6px 6px rgba(0, 0, 0, .4);
+  box-shadow: 20px 20px 20px 0 rgba(0, 0, 0, .6);
   margin-left: 2em;
   margin-bottom: 3em;
   margin-top: -10%;
@@ -222,19 +222,14 @@ h3 {
   transform: rotate(360deg);
 }
 
-.contact {
-  color: white;
-  font-size: 30px;
-  font-family: 'Hi Melody', cursive;
-}
-
+/*
 .skills {
   text-align: right;
   padding-right: 20px;
   line-height: 40px;
   color: white;
   font-family: 'Hi Melody', cursive;
-}
+}*/
 
 .html {
   width: 90%;
