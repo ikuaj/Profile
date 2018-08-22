@@ -16,7 +16,8 @@ body {
   background-color: #6e2c00;
   font-size: 25px;
   color: white;
-  position: static;
+  position: fixed;
+  opacity: 0.7;
   height: 55px;
 }
 
@@ -36,7 +37,7 @@ body {
 .navbar .nav-link:hover {
   background: white;
   color: black;
-  transition: all .4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 .fullBrand {

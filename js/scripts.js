@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  confirm("change browser size to 90% zoom");
+  confirm("change browser screen size");
     event.preventDefault();
 });
 /* Demo purposes only */
