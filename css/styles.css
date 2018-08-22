@@ -78,7 +78,7 @@ body {
 .Aboutme {
   font-size: 30px;
   font-family: 'Hi Melody', cursive;
-  box-shadow: 20px 20px 20px 0 rgba(0, 0, 0, .6);
+  box-shadow: 25px 20px 30px 15px rgba(0, 0, 0, .6);
   margin-left: 2em;
   margin-bottom: 3em;
   margin-top: -10%;
@@ -225,14 +225,16 @@ h3 {
   -webkit-transition: -webkit-transform .8s ease-in-out;
   transition: transform .8s ease-in-out;
   transition: all .8s cubic-bezier(0.645, 0.045, 0.355, 1);
+  filter: grayscale(100%);
 }
 
 .bottom:hover {
-  width: 40px;
-  height: 40px;
-  opacity: 0.1;
+  width: 45px;
+  height: 45px;
+  opacity: 0.6;
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg);
+  filter: grayscale(0);
 }
 .cont2{
   font-family: 'Ubuntu', sans-serif;
@@ -271,6 +273,7 @@ figure.image {
   text-align: center;
   font-size: 16px;
   background-color: #6e2c00;
+
 }
 
 figure.image *, figure.image *:before, figure.image *:after {
@@ -285,6 +288,7 @@ figure.image img {
   backface-visibility: hidden;
   vertical-align: top;
   opacity: 0.9;
+  filter: blur(1px);
 }
 
 figure.image .title {
@@ -380,6 +384,7 @@ figure.image a {
   bottom: 0;
   left: 0;
   right: 0;
+
 }
 
 figure.image:hover img, figure.image.hover img {
