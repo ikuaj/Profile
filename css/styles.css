@@ -415,3 +415,9 @@ figure.image:hover figcaption, figure.image.hover figcaption {
 @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { ... }
 @media (min-width: @screen-md-min) and (max-width: @screen-md-max) { ... }
 @media (min-width: @screen-lg-min) { ... }
+/*meia querry for Safari IOS*/
+@media print {
+  .container {
+    width: auto;
+  }
+}
