@@ -105,9 +105,11 @@ a:link {
   margin-top: 1.5em;
   margin-bottom: 1em;
   transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
+
 }
 #h3:hover{
   text-shadow: 4px 6px 6px  #515a5a ;
+  
 }
 
 .edu {
