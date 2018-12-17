@@ -35,4 +35,4 @@
 
 ### LICENSE
 This website is under the MIT license which can be found [HERE](LICENSE).
-Copyright (c) 2018 wesleymbate
+Copyright (c) 2018 james ikua
